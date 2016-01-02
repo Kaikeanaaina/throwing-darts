@@ -1,0 +1,27 @@
+{
+  "name": "throwing-darts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaikeanaaina/throwing-darts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaikeanaaina/throwing-darts/issues"
+  },
+  "homepage": "https://github.com/Kaikeanaaina/throwing-darts#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-connect": "^2.3.1",
+    "gulp-sass": "^2.1.1",
+    "mocha": "^2.3.4"
+  }
+}
