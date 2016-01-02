@@ -3,6 +3,8 @@ var connect = require('gulp-connect');
 var browserify = require('gulp-browserify');
 var sass = require('gulp-sass');
 
+//var throwingDarts = require('./public/js/app.js');
+
 
 gulp.task('connect', function(){
   connect.server({
